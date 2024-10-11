@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCamara.CommissionCalculator", "FCamara.CommissionCalculator.csproj", "{E494BE1F-D402-4C9C-B0D4-5F99249377CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCamara.CommissionCalculator.Tests", "..\FCamara.CommissionCalculator.Tests\FCamara.CommissionCalculator.Tests.csproj", "{C3C987FF-1197-46BB-AF2D-492A9775B281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E494BE1F-D402-4C9C-B0D4-5F99249377CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E494BE1F-D402-4C9C-B0D4-5F99249377CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E494BE1F-D402-4C9C-B0D4-5F99249377CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E494BE1F-D402-4C9C-B0D4-5F99249377CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C987FF-1197-46BB-AF2D-492A9775B281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C987FF-1197-46BB-AF2D-492A9775B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C987FF-1197-46BB-AF2D-492A9775B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C987FF-1197-46BB-AF2D-492A9775B281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F4E882-2F59-4F44-A586-4AA337BB64CC}
+	EndGlobalSection
+EndGlobal

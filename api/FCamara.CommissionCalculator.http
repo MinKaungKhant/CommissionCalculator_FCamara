@@ -1,0 +1,6 @@
+@FCamara.CommissionCalculator_HostAddress = http://localhost:5139
+
+GET {{FCamara.CommissionCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
